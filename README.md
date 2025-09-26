@@ -6,7 +6,7 @@ A streamlit-based web application for managing project briefs with AI-powered ta
 
 Briefly is a simple yet powerful tool that helps teams and individuals organize project briefs, deadlines, and supporting documents. The app features an integrated AI tagline generator that creates catchy marketing taglines for your projects using the Llama-3.1-70B model via HuggingFace.
 
-## App Link: 
+## App Link: https://briefly-app.streamlit.app/ 
 
 ## Features
 
